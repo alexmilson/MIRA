@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Deployed on GitHub Pages → **[your-username.github.io/mira](https://your-username.github.io/mira)**
+Deployed on GitHub Pages → **https://alexmilson.github.io/MIRA/**
 
 ---
 
